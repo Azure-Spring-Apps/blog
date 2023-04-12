@@ -1,0 +1,45 @@
+[[main]]
+  name = "Blog"
+  url = ""
+  weight = -110
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "Links"
+  identifier = "Links"
+  weight = -108
+[[main]]
+  parent = "Links"
+  name = "Azure Spring Apps @ VMware Tanzu"
+  url = "https://tanzu.vmware.com/azure-spring-apps"
+[[main]]
+  parent = "Links"
+  name = "Azure Spring Apps - Documentation"
+  url = "https://learn.microsoft.com/en-us/azure/spring-apps/"
+[[main]]
+  parent = "Links"
+  name = "Azure Spring Apps - Frequently Asked Questions"
+  url = "https://d1fto35gcfffzn.cloudfront.net/tanzu/Azure-Spring-Apps-Enterprise-FAQ.pdf"
+[[main]]
+  parent = "Links"
+  name = "Deploying a Spring Boot app to Azure"
+  url = "https://spring.io/guides/gs/spring-boot-for-azure/"
+[[main]]
+  name = "About"
+  url = "/about"
+  weight = -107
+
+# social menu links
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/Azure-Spring-Apps"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/azurespringapps"
+[[social]]
+  name = "rss"
+  weight = 5
+  url = "index.xml"

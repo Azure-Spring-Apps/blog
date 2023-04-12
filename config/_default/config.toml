@@ -1,0 +1,17 @@
+baseurl = "/"  # Include trailing slash
+title = "Azure Spring Apps Community"
+copyright = ""
+paginate = 20
+theme = "hugo-clarity"
+canonifyurls = true
+DefaultContentLanguage = "en"
+
+# disqusShortname = "azure-spring-apps"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
