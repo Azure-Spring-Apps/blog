@@ -7,6 +7,7 @@ thumbnail: "/images/azure_heart_spring.png"
 slug: "introduction-to-azure-spring-apps-community-blog"
 abstract: "Introducing the Azure Spring Apps blog, a community-driven platform designed to facilitate knowledge sharing and growth among developers working with Azure Spring Apps. This blog will delve into a variety of topics related to Azure Spring Apps, such as Spring Boot, Spring Cloud, and DevOps. With contributions from expert writers and guest authors, readers can expect in-depth tutorials, guides, and best practice insights to confidently build and deploy applications. As a platform centered around the developer community, we encourage you to share your stories, challenges, and unique perspectives with us. Join us in creating a collaborative and empowering space that inspires innovative application development."
 summary: "The Azure Spring Apps blog is a community-driven platform for developers to share knowledge and experiences, featuring in-depth tutorials and best practices on building modern applications with Azure Spring Apps."
+showReadTime: false
 ---
 
 ### Welcome to the Azure Spring Apps blog: A community for Developers
